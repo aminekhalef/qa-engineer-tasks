@@ -19,3 +19,8 @@ Follow these steps to set up and run the project on your local machine.
 
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
+
+### 2. Navigate to the Project Directory
+cd qa-engineer-tasks
+
+
